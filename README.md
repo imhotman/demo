@@ -1,2 +1,3 @@
 # demo
-1. git 입니다.
+1. git 변경사항입니다.
+2. test branch 만들기
